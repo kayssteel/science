@@ -12,8 +12,7 @@
   <h1>
     The Skull
   </h1>
-  
-  <img src="skull.jpeg"style="height: 300px;">
+
   
   <pre> skull
 anatomy
